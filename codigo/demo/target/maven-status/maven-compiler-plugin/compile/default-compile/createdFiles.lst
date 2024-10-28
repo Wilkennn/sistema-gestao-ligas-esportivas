@@ -1,0 +1,10 @@
+com\example\App.class
+com\example\data\Equipe.class
+com\example\dao\PlacarDAO.class
+com\example\dao\MySQLDBHandler.class
+com\example\dao\PartidaDAO.class
+com\example\dao\EquipeDAO.class
+com\example\data\Placar.class
+com\example\data\Partida.class
+com\example\dao\CommonDAO.class
+com\example\data\Campeonato.class
